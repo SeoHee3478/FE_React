@@ -19,3 +19,7 @@ React에는 Function component와 class component가 있음
 - state 관련 함수
 - lifecycle 관련 함수
 - 최적화 관련 함수
+
+----
+[1. useState](http://www.google.co.kr)
+[2. useEffect](http://www.google.co.kr)
