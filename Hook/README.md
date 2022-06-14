@@ -21,5 +21,6 @@ React에는 Function component와 class component가 있음
 - 최적화 관련 함수
 
 ----
-[1. useState](http://www.google.co.kr)
-[2. useEffect](http://www.google.co.kr)
+[1. useState](https://github.com/SeoHee3478/FE_React/tree/main/Hook/useState)
+<br>
+[2. useEffect](https://github.com/SeoHee3478/FE_React/tree/main/Hook/useEffect)
